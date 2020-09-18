@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 利用nodejs对本地json文件进行增删改查
-date: 2020-9-10
+date: 2020-03-04
 categories: blog
 tags: [利用nodejs对本地json文件进行增删改查]
 description: nodejs的文件系统，接触过node的对node的文件系统肯定不会陌生，这两天我就在思考一个问题，我是否可以在本地操作我的本地json文件，这样一个本地的文本数据库就有了，如果是便签之类，记录的软件，我完全可以不用连后台的数据库，我可以自己操作本地的json文件，自己用node写后台，答案是肯定的，下面我们就一起来实现一下吧，对本地json文件的增、删、改、查。
