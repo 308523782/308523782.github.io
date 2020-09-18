@@ -12,11 +12,11 @@ description: nodejs的文件系统，接触过node的对node的文件系统肯�
 #### 1.增
 首先我们先看一下demo的目录结构
 
-![Alt text](./img/pengqh/pic1.png)
+![Alt text](img/pengqh/pic1.png)
 
 我们看一下person.json的内容
 
-![Alt text](./img/pengqh/pic2.png)
+![Alt text](img/pengqh/pic2.png)
 
 下面写nodejs的代码
 ```js
