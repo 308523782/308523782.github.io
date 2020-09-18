@@ -2,7 +2,7 @@
 title: 我的知乎 # 你的博客名字，可以定义修订
 header-img: "img/green.jpg"
 tagline: "cn"  
-description: "这是我的博客"  # 一句话描述你的博客
+description: "骐骥一跃 不能十步驽马十驾功在不舍锲而舍之 朽木不折 锲而不舍金石可镂愚公移山 精卫填海不积跬步，无以至千里；不积小流，无以成江海。"  # 一句话描述你的博客
 baseurl: ""
 url: "https://308523782.github.io/"  # 此处填写你的博客地址 
 
@@ -43,7 +43,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "blue" # 你的名字
+      author: "blue_xiao" # 你的名字
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 

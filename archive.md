@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Archive"
-description: "文章归档"
+title: "我的库存"
+description: "积薄而为厚，聚少而为多"
 header-img: "img/orange.jpg"
 ---
 
